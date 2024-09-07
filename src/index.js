@@ -17,7 +17,7 @@ const routes = {
   "ecr.viinas.eu.org": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.viinas.eu.org": dockerHub,
+  "docker-staging.libcuda.so": dockerHub,
 };
 
 function routeByHosts(host) {
